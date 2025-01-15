@@ -103,19 +103,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "_organization": "Local Coding Club",
-      "_position": "Volunteer",
-      "_url": "https://codingclub.com/",
-      "_startDate": "1998-01-07",
-      "_endDate": "2001-01-07",
-      "_summary": "Helped organize coding workshops and mentored new members.",
-      "_highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "STMIK Jakarta College",
@@ -146,10 +133,10 @@
   ],
   "certificates": [
     {
-      "_name": "Full Stack Web Development",
-      "_date": "2023-05-01",
-      "_issuer": "Online University",
-      "_url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Full Stack Web Development",
+      "date": "2023-05-01",
+      "issuer": "Online University",
+      "url": "#"
     }
   ],
   "skills": [
